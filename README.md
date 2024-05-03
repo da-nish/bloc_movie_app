@@ -21,7 +21,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ![Example](https://raw.githubusercontent.com/da-nish/bloc_movie_app/main/1.png)
-
+<img src="https://raw.githubusercontent.com/da-nish/bloc_movie_app/main/1.png" width="150" height="280">
 
 ![Example](https://raw.githubusercontent.com/da-nish/bloc_movie_app/main/2.png)
 
