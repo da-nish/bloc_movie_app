@@ -20,10 +20,10 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-![Example](https://raw.githubusercontent.com/da-nish/bloc_movie_app/blob/main/1.png)
+![Example](https://raw.githubusercontent.com/da-nish/bloc_movie_app/main/1.png)
 
 
-![Example](https://raw.githubusercontent.com/da-nish/bloc_movie_app/blob/main/2.png)
+![Example](https://raw.githubusercontent.com/da-nish/bloc_movie_app/main/2.png)
 
 
-![Example](https://raw.githubusercontent.com/da-nish/bloc_movie_app/blob/main/3.png)
+![Example](https://raw.githubusercontent.com/da-nish/bloc_movie_app/main/3.png)
